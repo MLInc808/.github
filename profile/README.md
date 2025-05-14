@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-This is a community of people interested in learning and pushng the boundaries of ML and AI can achieve.
+This is a community of people interested in learning and pushing the boundaries of ML and AI can achieve.
